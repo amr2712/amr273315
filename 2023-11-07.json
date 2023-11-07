@@ -1,0 +1,26 @@
+{
+  "name": "Willie Simpson",
+  "age": 53,
+  "address": {
+    "street": "Mudul Junction",
+    "city": "Sepneha",
+    "state": "CA",
+    "zip": "06845"
+  },
+  "contact": {
+    "phone": "(885) 227-9447",
+    "servicePhone": "800756515"
+  },
+  "birthday": "1970-12-17T06:00:08.439Z",
+  "ip": "60.54.163.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe saw amanu ceimhut hok wo labli wow silmoow rihiji cirmacwin uno erni. Ulejiv sepocci orosab ro hibil zugogi rusunivo iz ob noc nenluhnu rifuh wogobje. Ene cer neg pe ekwufib ijial wal tozip vecal rurjimvi zed wotimzo. He pelije ne sa cu wapupuj gankamnuw miz civme wa ifejcan uwhop jap ibehubla.",
+    "bio": "Okani eci pihlazij nob hu muzec kuf ji ru uhige nawabo acosujze ocisikgi lejuro kidsozlu esfog ho mepa. Kenluf dol gocov wegze mi bazcemin fuvev sum jahiv ta ujuwi je jidjijtop some rucca. Hagoru ilo uttagmo detmij sup bi jebwe lizmepeg jus wozufeza rulihem lo vop de cohdem vesmom jiwje zuvisa."
+  },
+  "apiKey": "855aee10e3665f0abeff43816e1bc5f78d8e54067ba824dba88203ed6a407601",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
