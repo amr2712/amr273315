@@ -1,0 +1,26 @@
+{
+  "name": "Sally Stewart",
+  "age": 41,
+  "address": {
+    "street": "Korza Pike",
+    "city": "Fupretsas",
+    "state": "ME",
+    "zip": "35819"
+  },
+  "contact": {
+    "phone": "(382) 406-1944",
+    "servicePhone": "800818541"
+  },
+  "birthday": "1965-11-24T12:59:20.352Z",
+  "ip": "188.44.17.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Ligubar tuvorot muosson oke rajze halsuik moenvit kiavezi rafed de egham owohu. Zewolje toj sa agi wo go basoab accut zubbeof pelakko logsud ku zecfifsa tongevzo navebab fir zifvoce. Ak omemeva ucufi leh jerol nif rocodhiw sibci miwe ocuru na hel wo igapar apdahuk. Owiaha wo woat ci atiwi az wiwmozta raili ozo elosanik gife jep jiktufaj. Pifi ikhavuh furir ta cedi irali dohlaj olewu so be zape sokluv reza.",
+    "bio": "Votiba kiwil entotre no utozozi tu koihopa azeredic zekuc vas certevu miwtap gemso oso sogoos. Diszib afmij or zunitoc urcam pi lopu nowib vuit cih huufpaj usobemma bilan pufrakcu. Wapen pokva rughivor saga vo up vasdazin fermopom barrupjol hooda bufha si. Vilhe nisfi fa sakpogabo sivjaldeb li kew ep co isumivrim vatwucir wurep. Seljun be idofuvu zaztu kur ridarwu gom livova zeg fujar mitonuro se sacuveram pi vet pinsugwos. Bokuf titob povuvla guvad icu gih lespap anivagir gomwiliw dezcebnar atowate igtih don femnawaz nomi inmoc."
+  },
+  "apiKey": "b22846d2cf516748cd7ff6a0b62fc3f9bcb97ba21e5cdd7f7662082f2d52d07c",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
