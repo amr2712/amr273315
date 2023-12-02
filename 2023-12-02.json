@@ -1,0 +1,26 @@
+{
+  "name": "Mike Graham",
+  "age": 55,
+  "address": {
+    "street": "Bidor Trail",
+    "city": "Duanaor",
+    "state": "OH",
+    "zip": "50384"
+  },
+  "contact": {
+    "phone": "(933) 987-6192",
+    "servicePhone": "800672872"
+  },
+  "birthday": "1986-02-02T04:38:23.191Z",
+  "ip": "218.173.192.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Ramdevwu wofted ubilobu ladawib uhtibfec cowwotu uvu osi rev zagsu bemaf wi vije cutwos rilase fuwon. Vej oskali vup duuniik tozhojzi vusuj du roweg coisja pesemaz ihbeitu ajil kukwe wihilu ja zule. Oposa penwos pocpa ajmip jiaswov gec oreelemi ehapu kobufran guume taip sutuz jinone kowotzo. Ta acnoz vil bukpiah ego hanijileb fu fu gijep uhoma ja ezalouwa fachi hu wasroibi fah vud zo. Pefituj wicfoc no bivu finji avi canwub dehanlum rup kofgeh ercujper hiog.",
+    "bio": "Gucirnam savuzbov ew cawdes pofozgu ofevel ikipe gon vow situn ret vi zoz ha fiudlif ak iheravfe. Ho juze je jurobviw cuzjorbol mo livajuc hebzo won ku wo ukcono tez. Iwusasi ne dicudepi vo ciwwon bago ocizej ebe vorawdu gijso duwve etesipgu gu gurwiemi ariduj supuoto le itaru."
+  },
+  "apiKey": "be5a2b14b008765076ac65a330b2ce8f3ea9cc63673b60903aa7dca0daae5857",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
