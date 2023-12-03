@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Morgan",
+  "age": 23,
+  "address": {
+    "street": "Lapav Drive",
+    "city": "Zijontot",
+    "state": "VT",
+    "zip": "07939"
+  },
+  "contact": {
+    "phone": "(782) 849-1782",
+    "servicePhone": "800483424"
+  },
+  "birthday": "1965-07-05T05:55:01.427Z",
+  "ip": "32.88.72.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Savokge mor sap bevugo urafar cumroloma levwu peuluze la varna tot waojilab. Ufureve vo giv kiij cosmu dagniloso colama sozec bahocbe borefuc pebuho dah wekzus owkiujo etogek fujwuloce mupathiz ji. Julmi netbihsu zeghi talup lawubno mek epe geguib fuzuki reben tiaz piun kuvbe gas la corvija vi aluuf. Faglegzil fachaivo hoscasaw sip icpez ekza hop miareop opikewug vitru lopieca ecudiido. Wevfe ri leri pojat hon cudazuz petfi puufu go ocez duzu ibleb. Vocwuha ket lipgakdav luwpafud aharut suahirul kuc ammu jazo jenew te jerde zovgipwi cawa jikkeg wog.",
+    "bio": "Jat tugbaptu pedoloc zoufegun ma kiw huwnan jasade am tiwfip bobug adhaveh omulub vishe mo su. Ekcin soavmuf ga kon ivuma cijecuz up kiluhtop ruanoem fod ebe cessu ziwiz ruz fesiso jagikwu. Zuidcop nipzifce hu zur hasu lad rawucrer jamkat eh zof otubavos redi butlinhup leza pi."
+  },
+  "apiKey": "dcc8061d6e70785b963efd89accec324ead3ccaa1a644ea9f3e6db3de4380446",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
