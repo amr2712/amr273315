@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Jones",
+  "age": 27,
+  "address": {
+    "street": "Rewdo Avenue",
+    "city": "Paworas",
+    "state": "FL",
+    "zip": "72717"
+  },
+  "contact": {
+    "phone": "(657) 659-5573",
+    "servicePhone": "800912939"
+  },
+  "birthday": "1987-10-16T00:02:04.871Z",
+  "ip": "87.136.229.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Zafjiso etolij las tusama zavwi zefdi lage jenmewag op vuatbin defe nuroc lukdeca leut. Edje cez his zulelepa mep luweozu ma keg ji riam jitkibep kucambap epivedjem vehbupdu alo. Jo ezjafrow buva uvefhad tuca lo uhe lavjon juzmuvne ogu hewe rum imno tufen wa fiw. Ticeda sapoj fofutu fucu te fujwo fu vinki hi fulev ne cemo indim pentez.",
+    "bio": "Ropeuw boojjaj za goodaro kefaku ezekej jacunnep duoti nemih weumu bogkeaf keseko temilciw epicem butago. Eru ode catlutog mijfiwpih pehe omonenok jon es nuhweceto mucvejse zef juwhetuw ragowaf. Wa bavo omodof erajpag dif ek sa ka ozone oz age lociscod jem. Ehsovoni sita gi fikuobi ejaufaij wiref ezadibhe ugwakpok tifa jem ucecu ziru uzlal. Sagahi febu sodju di zi awaipe ofezuuci he beosa apu boizwu kusiva mubal. Elpaplum houmos honno wistawtuv osunape kuboha ras vinjik cenud rijleod peftekoga teruta wihapacu ganojote tobrurru wukgucnis."
+  },
+  "apiKey": "59acbd2e855d4cb3d4018ed1f7e1e3d97c82a62edcc197a37bf76b98b997cead",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
