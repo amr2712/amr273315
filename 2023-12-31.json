@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Rodriquez",
+  "age": 28,
+  "address": {
+    "street": "Seaf Key",
+    "city": "Buvinowi",
+    "state": "DC",
+    "zip": "19693"
+  },
+  "contact": {
+    "phone": "(706) 931-2993",
+    "servicePhone": "800893866"
+  },
+  "birthday": "1985-07-17T22:17:48.843Z",
+  "ip": "174.189.208.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Seh re cir hidicnag cizezfa ru sajhuvoh ak kalzuzwup ligad wukjiut firu jot. Ova jih no teuwijo lazohunaz za zes pema de ve inerinsel map keco. Bi omgopu cakvatfir jorikig ahruh ecmi ralig otejuvum fa rovbetvud kew huluvep wozuwha tuimar.",
+    "bio": "Mah ho ov nened buzicpo uleci wor valaewo ev nuwermav nonpivwa hog mifokor sabegfo ihvir. Buzjek kesik batwowed ot mosbul zoni iri cesat veuvzaf ej kiet em kowup dohcij. Lo hevarnem wec rano umajuc mukpepgij lura ihari tochorde jip cesebdoh tuurlo."
+  },
+  "apiKey": "81611e45740330c818aef18e3e3960f5a08b43215590cfce524f4311bedfa8c2",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
