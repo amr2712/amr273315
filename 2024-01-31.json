@@ -1,0 +1,26 @@
+{
+  "name": "Marian Maldonado",
+  "age": 62,
+  "address": {
+    "street": "Karjil Mill",
+    "city": "Kusniso",
+    "state": "CO",
+    "zip": "24951"
+  },
+  "contact": {
+    "phone": "(211) 752-5682",
+    "servicePhone": "800789325"
+  },
+  "birthday": "1966-10-22T17:02:55.913Z",
+  "ip": "9.101.54.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Waljem majsof fa cup saj sosvajol tob ogjo toliruoti kir nadreror fedafji kulbunoj vajus nic raf. Gimhohcuv rup sepe ho ulu lulutalic pigluf zevuwjit dozot wes mul fejtuvcuc venu on potaze. Adureswo kimwucbas mejnabo donma kipunole rib duwanoku ce ifi ojapuuwa susuw pouv.",
+    "bio": "Tercuaw nannel murduhag usu wetmiv suom eji haote hizok ol elupi cic vifunupok camtaew zum uhibo wim ahote. Kis ezafoccid al bik sur owpef kof jenanez dimet cah se siwocwi tema vemiz hoto apja sispimo. Watur iti me ka kifwizah ogerem am menbeget la javewo afguju mam fitusve pocil he pametep."
+  },
+  "apiKey": "f46dbf89bd7514d0204eb7e8a5b1c23204a0c30526341adbea0cb11aeb936d65",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
