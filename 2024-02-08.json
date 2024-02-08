@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Scott",
+  "age": 37,
+  "address": {
+    "street": "Sead Ridge",
+    "city": "Ecunarsop",
+    "state": "MI",
+    "zip": "89474"
+  },
+  "contact": {
+    "phone": "(981) 621-5914",
+    "servicePhone": "800766183"
+  },
+  "birthday": "2002-08-12T11:05:36.031Z",
+  "ip": "66.226.144.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce tew fu ateafu ca rewic fe ma du ijakufer put uzog hutraduv mo. Saisi era bumdu otenaja duaj munzas fu tofmo cur ve hutram goz cu icokaw gowahati te wivsiludo. Icamawnub jal fi wo vam nowihe luneza zebumek jitba cebuvwe zoiru egaijueb fowti.",
+    "bio": "Efowohjer okke ho epi fogjune egwov kin isuusarep busaze tiduwaro bajok pizpumguh. Ep gal ti wof mur iki haza iw aplo pizju ku pelko rovvi. Mopat kube ecok udofisno ras vidoar fukarug hoc ba fuuzubu maza ujsobbu gik liljesor rooka ziztig lanbat cebokwos."
+  },
+  "apiKey": "90fad5c3b7f4efca25256b60062dae4249ec349fb7c8d7b67fe5c64172064dfb",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
