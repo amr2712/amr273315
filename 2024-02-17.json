@@ -1,0 +1,26 @@
+{
+  "name": "Ola McGee",
+  "age": 56,
+  "address": {
+    "street": "Tavvap Trail",
+    "city": "Ikarovci",
+    "state": "DC",
+    "zip": "52843"
+  },
+  "contact": {
+    "phone": "(324) 949-1281",
+    "servicePhone": "800398653"
+  },
+  "birthday": "1968-10-07T16:54:03.461Z",
+  "ip": "19.254.137.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Vupaw bo koke vu ecose diwu uvogeuv azakuz dunwen ake kut fa rugpanfiz bewi tedec la kuduzgu. Novilemur fiwkedanu ci bogo gafej zedeud atpi ifeoma li isohan lehhefi juwi jabe gin nogsimkum. Ru tusdeswa zichan olad repubu dim bi zebgo iggalkes higheris velothic sico or bawweojo. Wogpom usumedgi ji zieguwam vofacuc zaiv bopo wituf ok zo afaju rabiw la ogma set. Vo voczasul hezhuc ut azavugah dozte heivsot cahi ha falca of ucugap rehsag poza alze ifsacpur.",
+    "bio": "Ziumi at ec he sokuhu debbaewi niaca vuaboge fiin zepalo nojjog midmoazi tiwca nurofi mahumu. Ji jek sew gif ci pa kuuvic ufcomagi ke kaaduke lo kusgew pagefwe upuoc deovema. Pavi izemobu bi fiklili nuazejuf fuob gupwihlo vufi difu kubutabeb gep imepadome usi."
+  },
+  "apiKey": "b933e7c24fba625c9762617ae9077341128287dc340ea42b5dc86a301267bdf4",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
