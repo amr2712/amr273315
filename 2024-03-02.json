@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Tate",
+  "age": 24,
+  "address": {
+    "street": "Mile River",
+    "city": "Nudbutav",
+    "state": "TX",
+    "zip": "16338"
+  },
+  "contact": {
+    "phone": "(967) 608-4639",
+    "servicePhone": "800468398"
+  },
+  "birthday": "1997-11-09T11:27:03.423Z",
+  "ip": "172.211.244.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Tes lihoh lira ifomwid nuchi udjec jugan veh cajsov dapu gahle vunnu. Ivzilfe pecsoru pes cun jieci pebbuho oj butetbel kul mav le winkogwig. Waete hagat elava do bahlukal cipfiwe vug eciinco sezoem walo iveva osi hitobfib av puwzi sucrag ci cunen.",
+    "bio": "Wumvofkel tecareno nev jan no va ic alhoenu afiga nu se janife if caatohod. Kuhu rugtivceb vav uhe tiujo ewisid ruuh zesodwa usa niltur kowpuife ropa zawsum coluscum tifdakru limote. Likga fogu gajib alewow vi hormug seugavo kosovagim buga evnozif bu wifo kuwmociba lonuzac jovasjud nimim ah."
+  },
+  "apiKey": "b771ae875b95fe235ad49029772f66ccaa36343e95110e10ba4fb52d6cdd40a9",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
