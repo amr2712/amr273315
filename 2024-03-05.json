@@ -1,0 +1,26 @@
+{
+  "name": "Derek Gomez",
+  "age": 46,
+  "address": {
+    "street": "Ralaf Place",
+    "city": "Adavaaki",
+    "state": "TN",
+    "zip": "08973"
+  },
+  "contact": {
+    "phone": "(509) 524-8453",
+    "servicePhone": "800782862"
+  },
+  "birthday": "1999-10-01T01:43:18.965Z",
+  "ip": "124.83.248.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Savot ceb aku hula bipahuh cuw bewacwur iva rijhus kiwu wen ildip ihfah vonpod mesaw. Egudco de wu butuwre sege cekesuc fofasji azfuc dumzi afdiw udo huame vo. Lid devdouja ivinaaba gin unowame loalifiw neritre epi fe za at daj.",
+    "bio": "Po dofamu ru odcehir izuubu ukah wijmuda rogeb ob dozojze ha bobsaldim. Fuzwimhaw ruhve serpabic tigcemtuz ha cutwoz im ro halpezvu ikaanu mujcois sag bet pe udazoho pafnazte. Wi omorala mi cebecul sigoh voze ve jaofba kuinemi omamup lupela firdete ojo sezhes unifoj gemekoz le hoerem."
+  },
+  "apiKey": "d9a53bd779398b7efb140486c2037756cf767cd588f1a1effb743fdd5c748248",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
