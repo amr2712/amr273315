@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Rose",
+  "age": 59,
+  "address": {
+    "street": "Nebe Junction",
+    "city": "Toahikaf",
+    "state": "AK",
+    "zip": "28818"
+  },
+  "contact": {
+    "phone": "(525) 896-9632",
+    "servicePhone": "800723764"
+  },
+  "birthday": "1991-03-22T02:09:11.855Z",
+  "ip": "47.54.46.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Awuwueb logline hanojho ro acuri pal izmaci an ebgiawi ikawuzpal cer nizugveh. Loz se dasume hudieha adzam jafejme fean kehzahpu ahisufvil ru fes nucufic. Hojusa jazek azopu vasef ruja fanu liatji er dihsemiz itahigos lidvin pe urira muca fahwihto vopguc igejol ner.",
+    "bio": "Wositzow elciube enuka ri fiwhobe vo mokevad nebe hafi sa dehladu zutemki far piducguw guf bi cevforu. Hoeribi rinfutibo linmo voj amubum tafuhci vo ba eg savufi fuzeh bavidu gergasu zo ulpuzap. Dos bevujo tuce evjifi nugkimo kip ocmuel ehipumvuz were unuvef fif lus ob imalu bi vokri. Hus ojci wenziza pubpuvfo ra boj wavsuvsow av bazeki lejsiv vuk egonogod awizo. Ilo sehud ah duffiljo midojiw navilci alki huguh raljihkel di azbotuk fomkuah dojpub rowub egezufev dacokde. Kusuri kef be em keojefog mof dudwohi kadojip tin hitdu cotga hofzo fohos pup kus hacli uro me."
+  },
+  "apiKey": "38ad87632fceda19cbf7370b8391acef90dbb80225c0fc36771674fdd6692f1e",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
