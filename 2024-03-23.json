@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Walsh",
+  "age": 28,
+  "address": {
+    "street": "Ipees Heights",
+    "city": "Feenti",
+    "state": "OK",
+    "zip": "03326"
+  },
+  "contact": {
+    "phone": "(702) 703-1435",
+    "servicePhone": "800778348"
+  },
+  "birthday": "2006-02-13T08:04:08.733Z",
+  "ip": "155.35.38.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Eja mirgaen com allupi pim bukva digidig zidnarul cut fojfoke ma leffi gos rufikjo. Ci colizpaf arivib muvmuvbug jaru ralmeca kudnarobo el porbe rojsib dofcel zulih nelrob godeje bi cudjes tivo juten. Wem gol vum ungulbel ugojoif rovcovku kik arhibud cupoza wuofuda esbile aticinuw cokgore.",
+    "bio": "Gomava allupoh zezhe je kiw poas wes zojot me fimrub zotnin vu mojehut. Pez reubelu dokudi irofedo okti hihcaltu li uwofov pesded fekjohi najzizah tap. Fa cigvogros homiza etjori owfip cu kunu libop abvaspoh tevko mu gigaw soawogod."
+  },
+  "apiKey": "4494df55edcaa97a39e62bea7a2e1c41bcc4a2ca5aa13e28d27b040e091d0732",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
